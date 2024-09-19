@@ -1,16 +1,13 @@
-## Hi there 👋
+**Bem vindo ao meu perfil**
 
-<!--
-**kauaconsolim/kauaconsolim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Kauã Consolim Rover
 
-Here are some ideas to get you started:
+Sou aluno do componente curricular de pensamento computacional pela rede estadual do Paraná
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Utilizo em aula a plataforma [Alura] (https://www.alura.com.br/)
+
+### Para entrar em contato comigo
+
+kaua.rover@escola.pr.gov.br
+
+![] (https://i.pinimg.com/originals/10/65/bc/1065bc662c55648c454c462f208d920e.gif)
