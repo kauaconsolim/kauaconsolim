@@ -2,7 +2,7 @@
 
 Meu nome é Kauã Consolim Rover
 
-Sou aluno do componente curricular de pensamento computacional pela rede estadual do Paraná
+Sou aluno do componente curricular de programação pela rede estadual do Paraná
 
 Utilizo em aula a plataforma [Alura](https://www.alura.com.br/)
 
